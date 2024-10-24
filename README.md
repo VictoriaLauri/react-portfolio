@@ -19,8 +19,9 @@ Although this is not a fully functional personal portfolio, the following goals 
 
 ### Libraries
 
-#### Chakra UI
+- Chakra UI
+- Formik
+- Yup
 
-#### Formik and Yup
-
-### Video Flythrough:
+### Video Overview (click on the image to watch on YouTube):
+[![React Portfolio Exercise Youtube Overview](https://img.youtube.com/vi/ZZOWjEMa4EE/0.jpg)](https://www.youtube.com/watch?v=ZZOWjEMa4EE)
